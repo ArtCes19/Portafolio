@@ -6,7 +6,7 @@ Soy desarrollador web con experiencia en HTML, CSS, JavaScript, Bootstrap y Reac
  https://artces19.github.io/Halo/ |
  https://artces19.github.io/America/
 
- #Perfil en LinkedIn
+# Perfil de LinkedIn
 https://www.linkedin.com/in/c%C3%A9sar-artavia-mora-35558b261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
