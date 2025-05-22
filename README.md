@@ -25,7 +25,9 @@ Busco oportunidades para colaborar en proyectos desafiantes que me permitan apli
 
 # 📄 CV
 Puedes consultar mi currículum en el siguiente enlace:
+
 https://www.linkedin.com/in/c%C3%A9sar-artavia-mora-35558b261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-César Artavia Mora - CV (Inglés).pdf
+
+[Cesar Artavia Mora-CV (Ingles).pdf](https://github.com/user-attachments/files/20395508/Cesar.Artavia.Mora-CV.Ingles.pdf)
 
  
