@@ -20,10 +20,10 @@ https://artces19.github.io/Halo/ |
 https://artces19.github.io/America/ | 
 https://artces19.github.io/AgregarProductos/
 
-🚀 Objetivo Profesional
+# 🚀 Objetivo Profesional
 Busco oportunidades para colaborar en proyectos desafiantes que me permitan aplicar y expandir mis conocimientos en desarrollo frontend, contribuyendo al éxito de equipos dinámicos y orientados a resultados.
 
-📄 CV
+# 📄 CV
 Puedes consultar mi currículum en el siguiente enlace:
 https://www.linkedin.com/in/c%C3%A9sar-artavia-mora-35558b261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 César Artavia Mora - CV (Inglés).pdf
